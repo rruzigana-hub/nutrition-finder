@@ -126,7 +126,7 @@ async function searchFoods(query) {
     sortSelect.value = 'name';
     controls.classList.remove('hidden');
     serverInfo.textContent =
-      'Served by: ' + data.server + (data.cached ? ' (from cache)' : '');
+      'Served by: RUZIGANA ' + data.server + (data.cached ? ' (from cache)' : '');
     render();
   } catch (err) {
     if (err.name === 'AbortError') {
