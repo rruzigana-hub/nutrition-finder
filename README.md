@@ -66,3 +66,13 @@ I had setup problems with CodeVibe v0.1.19 on this assignment.
 I used an AI assistant for guidance. I typed or pasted my files myself,
 fixed my own mistakes, and deployed and tested the app on web-01, web-02 and
 lb-01.
+## AI Assistance and CodeVibe Note
+
+I used an AI assistant (Claude) while building this project. It gave me
+guidance, explained the code, and helped me find errors. I typed or pasted each
+file myself, read it, fixed my own typing mistakes, deployed the app on web-01
+and web-02, and recorded the demo.
+
+CodeVibe did not work properly for me at the start (see CODEVIBE-NOTE.md), so my
+report may show less review activity than the work I really did. I am sharing
+this openly. I am happy to explain any part of my code if asked.
